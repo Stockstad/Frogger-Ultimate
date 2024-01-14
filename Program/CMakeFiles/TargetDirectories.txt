@@ -1,0 +1,3 @@
+/home/stock/Documents/Course/tdp005/Program/CMakeFiles/Frogger.dir
+/home/stock/Documents/Course/tdp005/Program/CMakeFiles/edit_cache.dir
+/home/stock/Documents/Course/tdp005/Program/CMakeFiles/rebuild_cache.dir

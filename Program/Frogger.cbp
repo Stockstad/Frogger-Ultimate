@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Frogger"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/johto839/Documents/Courses/TDP005/tdp005/Program"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Frogger">
+				<Option output="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Frogger" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/johto839/Documents/Courses/TDP005/tdp005/Program"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 Frogger"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Frogger/fast">
+				<Option output="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Frogger" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/johto839/Documents/Courses/TDP005/tdp005/Program"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 Frogger/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/johto839/Documents/Courses/TDP005/tdp005/Program"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/johto839/Documents/Courses/TDP005/tdp005/Program"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/johto839/Documents/Courses/TDP005/tdp005/Program/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Turtle.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Turtle.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/ExitState.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/GameManager.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/GameManager.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/GameObject.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/GameObject.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/GameState.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/GameState.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Home.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Home.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/MenuState.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Player.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Player.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Sprite.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Sprite.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/State.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/State.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Truck.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/Truck.h">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/main.cpp">
+			<Option target="Frogger"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/home/johto839/Documents/Courses/TDP005/tdp005/Program/../../../../../../../usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
